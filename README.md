@@ -3,8 +3,6 @@ PodcastFonts_PC
 
 Podcast Fonts für den PC von A-Z
 
-<br>
-
 **Kleine Buchstaben**
 ----
 <img src="https://raw.github.com/C3ltaXMedia/PodcastFonts_PC/master/PodcastProjekte_Font/a-z_klein.png">
